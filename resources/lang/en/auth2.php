@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'login' => 'Login',
+    'signup' => 'Sign Up',
+    'logout' => 'Logout',
+    'create_account' => 'Create Account',
+    'full_name' => 'Full Name',
+    'email' => 'Email Address',
+    'password' => 'Password',
+    'confirm_password' => 'Confirm Password',
+    'preferred_language' => 'Preferred Language',
+    'english' => 'English',
+    'french' => 'French',
+    'select_student_profile' => 'Select Your Student Profile',
+    'choose_student' => 'Choose a student profile...',
+    'student_profile_help' => 'Select your existing student profile to link with your account.',
+    'password_requirements' => 'Password must be at least 8 characters and contain uppercase, lowercase, and numbers.',
+    'remember_me' => 'Remember Me',
+    'already_have_account' => 'Already have an account?',
+    'dont_have_account' => "Don't have an account?",
+    'login_here' => 'Login here',
+    'signup_here' => 'Sign up here',
+    'failed' => 'These credentials do not match our records.',
+];
